@@ -1,7 +1,0 @@
-$header = <<<EOF
-This file is part of Contao Hello World Bundle.
-
-(c) JanBallhorn
-
-@license LGPL-3.0-or-later
-EOF;
